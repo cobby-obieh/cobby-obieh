@@ -18,11 +18,11 @@
 </div>
 
 <div align="center" width="40" height="40">
-<h2>Hi there 👋</h2>
+<h2>Hi there,  I am Cobby, A passionate Web Developer, Graphic & UI/UX designer 👋</h2>
   </div>
 
 👩‍💻 About Me :
-<h3 align="center"> A passionate Web Developer, Graphic & UI/UX designer </h3>
+<h3 align="center"> I am passionate Web Developer, Graphic & UI/UX designer </h3>
 
 🔭 I’m currently working on Different project in various languages
 * 🌱 I’m currently learning everything in Programming, Graphic Designing & UI/UX designing
