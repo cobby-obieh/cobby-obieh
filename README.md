@@ -1,17 +1,15 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sandra-sarpong-595305124/">
+  <a href="https://www.linkedin.com/in/kwabena-osei-owusu-537107141">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:maameyaasarp@gmail.com">
+  <a href="mailto:cobbyobieh@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=email_me&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.twitter.com/in/marme_yaa/">
+  <a href="https://twitter.com/KhobiObieh?t=xUJnAiy88pOvaL3pA0yHfQ&s=35">
     <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -38,7 +36,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
