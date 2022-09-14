@@ -25,6 +25,7 @@
 
 👩‍💻 About Me :
 <h3 align="center"> A passionate Web Developer, Graphic & UI/UX designer </h3>
+
 🔭 I’m currently working on Different project in various languages
 * 🌱 I’m currently learning everything in Programming, Graphic Designing & UI/UX designing
 * 👯 I’m looking to collaborate on both frontend and backend projects for both mobile and web ☺️
