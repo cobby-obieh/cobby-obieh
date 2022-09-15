@@ -12,7 +12,8 @@
   <a href="https://twitter.com/KhobiObieh?t=xUJnAiy88pOvaL3pA0yHfQ&s=35">
     <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <a href="https://instagram.com/cobby_obieh?igshid=YmMyMTA2M2Y=" class="ig-b- ig-b-48"><img src="http://badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
+ <a href="https://instagram.com/cobby_obieh?igshid=YmMyMTA2M2Y=/?ref=badge" class="ig-b- ig-b-48">
+   <img src="http://badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
 </div>
 
 <div align="center" width="40" height="40">
