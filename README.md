@@ -12,17 +12,16 @@
   <a href="https://twitter.com/KhobiObieh?t=xUJnAiy88pOvaL3pA0yHfQ&s=35">
     <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=SandraSarpong&style=flat-square&color=blue" alt="Profile Views"/>
+  <a<a href="https://api.whatsapp.com/send?phone=3197010240285" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">Contact us on WhatsApp</a>
+
 </div>
 
 <div align="center" width="40" height="40">
-<h2>Hi there,  I am Cobby, A passionate Web Developer, Graphic & UI/UX designer 👋</h2>
+<h2>Hi there,  I am Cobby 👋</h2>
   </div>
 
 👩‍💻 About Me :
-<h3 align="center"> I am passionate Web Developer, Graphic & UI/UX designer </h3>
+<h3 align="center"> A passionate Web Developer, Graphic & UI/UX designer </h3>
 
 🔭 I’m currently working on Different project in various languages
 * 🌱 I’m currently learning everything in Programming, Graphic Designing & UI/UX designing
