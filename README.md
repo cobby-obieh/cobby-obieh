@@ -3,17 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kwabena-osei-owusu-537107141">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="mailto:cobbyobieh@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=email_me&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://twitter.com/KhobiObieh?t=xUJnAiy88pOvaL3pA0yHfQ&s=35">
-    <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
- <a href="https://instagram.com/cobby_obieh?igshid=YmMyMTA2M2Y=/?ref=badge" class="ig-b- ig-b-48">
-   <img src="http://badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
+   <a href="https://twitter.com/KhobiObieh?t=xUJnAiy88pOvaL3pA0yHfQ&s=35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calebkmakafui" height="30" width="40" /></a>
+  
+  <a href=https://www.linkedin.com/in/kwabena-osei-owusu-537107141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caleb senyah" height="30" width="40" /></a>
+    
+ <a href="https://instagram.com/cobby_obieh?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamcal6b" height="30" width="40" /></a>
 </div>
 
 <div align="center" width="40" height="40">
