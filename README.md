@@ -16,6 +16,8 @@
 <div align="center" width="40" height="40">
 <h2>Hi there,  I am Cobby 👋</h2>
   </div>
+  
+  <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 👩‍💻 About Me :
 <h3 align="center"> A passionate Web Developer, Graphic & UI/UX designer </h3>
